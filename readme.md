@@ -19,4 +19,4 @@ GOPLAI MVP1
 3. Place Assets in the Correct Directory
    After downloading, move the assets folder into the MVP1 directory:
 
-   ![Alt text](https://example.com/menu.png)
+![Logo](menu.png)
