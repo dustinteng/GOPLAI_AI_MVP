@@ -19,29 +19,4 @@ GOPLAI MVP1
 3. Place Assets in the Correct Directory
    After downloading, move the assets folder into the MVP1 directory:
 
-bash
-Copy
-Edit
-goplai-mvp1/
-│── MVP1/
-│ ├── assets/ # Place downloaded assets here
-│ ├── main_code.js
-│ ├── other_files/ 4. Install Dependencies (If Applicable)
-If your project requires dependencies (Node.js, Python, etc.), install them:
-
-bash
-Copy
-Edit
-npm install # If using Node.js
-pip install -r requirements.txt # If using Python 5. Run the Project
-Start the application with:
-
-bash
-Copy
-Edit
-npm start # Example for a React project
-python main.py # Example for a Python project
-📌 Notes
-The video files are not included in this repository for storage reasons.
-Ensure you have the necessary permissions to access the assets folder.
-If you encounter issues, contact a GOPLAI team member.
+   ![Alt text](https://example.com/menu.png)
